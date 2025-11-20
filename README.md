@@ -270,3 +270,29 @@ Complete a full semester of **Discrete Math, Algebra 2, Trigonometry, and Roboti
 - Commit progress weekly to GitHub
 
 
+# 📅 Weekly Study Schedule (Color‑Coded)
+
+| Subject            | Hours/Week | Suggested Sessions | Notes |
+|--------------------|------------|--------------------|-------|
+| 🔵 **Discrete Math**  | 6–8 hrs    | 3 × 2–3 hrs | Core logic & proofs — anchor subject. Use quizzes for active recall. |
+| 🟢 **Algebra**        | 5–6 hrs    | 2–3 × 2 hrs | Practice sets steadily; keep a review slot for older chapters. |
+| 🟣 **Trigonometry**   | 4–5 hrs    | 2 × 2–2.5 hrs | Pair with physics for applied practice (angles, vectors). |
+| 🔴 **Physics**        | 6–7 hrs    | 3 × 2–2.5 hrs | Mix theory with problem solving; align labs with robotics. |
+| 🟡 **Robotics Labs**  | 4–6 hrs    | 2 × 2–3 hrs | Hands‑on kit work; document progress in GitHub weekly. |
+| ⚪ **Review & Notes** | 3 hrs      | 1–2 × 1.5 hrs | Summarize each week into GitHub notes + progress tracker. |
+
+**Total: ~28–35 hrs/week** (like a full college load).
+
+---
+
+## 🕒 Daily Flow Example
+
+- 🔵 **Mon:** Discrete Math (2.5h), 🔴 Physics (2h)  
+- 🟢 **Tue:** Algebra (2h), 🟡 Robotics Lab (2.5h)  
+- 🔵 **Wed:** Discrete Math (2h), 🟣 Trigonometry (2h)  
+- 🔴 **Thu:** Physics (2.5h), 🟢 Algebra review (1.5h)  
+- 🟡 **Fri:** Robotics Lab (2h), 🔵 Discrete Math quiz/review (2h)  
+- 🔴 **Sat:** Physics problem set (2h), 🟣 Trigonometry practice (2h)  
+- ⚪ **Sun:** Weekly review + GitHub update (3h)  
+
+
