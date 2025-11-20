@@ -184,115 +184,16 @@ Complete a full semester of **Discrete Math, Algebra 2, Trigonometry, and Roboti
 
 ## 🗓 Weekly Breakdown (Book‑Aligned)
 
-### Discrete Mathematics (Epp, 5th Edition)
-- Week 1 → Section 1.1: Statements and Logical Connectives (Exercises 1.1)  
-- Week 2 → Section 1.2: Conditional Statements  
-- Week 3 → Section 1.3: Valid and Invalid Arguments  
-- Week 4 → Section 1.4: Using Definitions  
-- Week 5 → Section 1.5: Direct Proofs  
-- Week 6 → Section 1.6: Proofs Involving Conditional Statements  
-- Week 7 → Section 1.7: Proofs by Contrapositive  
-- Week 8 → Section 1.8: Proofs by Contradiction  
-- Week 9 → Section 1.9: Proofs Involving Biconditionals  
-- Week 10 → Section 1.10: Proofs Involving Cases  
-- Week 11 → Section 1.11: Proofs Involving Quantifiers  
-- Week 12 → Chapter 2: Sets and Operations  
-- Week 13 → Chapter 3: Functions and Relations  
-- Week 14 → Chapter 4: Induction and Recursion  
-- Week 15 → Chapter 5: Number Theory Basics  
-- Week 16 → Review + Practice Proofs  
+# 📅 Weekly Study Schedule (Mon–Sun)
 
----
-
-### Algebra & Trigonometry (Hornsby, 6th Edition)
-- Week 1 → Chapter 1: Graphs and Functions  
-- Week 2 → Chapter 2: Linear Equations and Inequalities  
-- Week 3 → Chapter 3: Quadratic Functions  
-- Week 4 → Chapter 4: Polynomial and Rational Functions  
-- Week 5 → Chapter 5: Exponential and Logarithmic Functions  
-- Week 6 → Chapter 6: Trigonometric Functions (Unit Circle)  
-- Week 7 → Chapter 7: Graphs of Trig Functions  
-- Week 8 → Chapter 8: Trig Identities and Formulas  
-- Week 9 → Chapter 9: Applications of Trigonometry  
-- Week 10 → Chapter 10: Polar Coordinates and Complex Numbers  
-- Week 11 → Chapter 11: Conic Sections  
-- Week 12 → Chapter 12: Sequences and Series  
-- Week 13 → Chapter 13: Probability and Statistics Intro  
-- Week 14 → Chapter 14: Matrices and Determinants  
-- Week 15 → Chapter 15: Review and Practice Exams  
-- Week 16 → Consolidated Review  
-
----
-
-### Robotics Labs (SparkFun Inventor’s Kit v4.1.2)
-- Week 1 → Lab 1: Blinking LED  
-- Week 2 → Lab 2: Buttons & Switches  
-- Week 3 → Lab 3: Sensors  
-- Week 4 → Lab 4: Servo Motors  
-- Week 5 → Lab 5: Motor Control  
-- Week 6 → Lab 6: Light Sensors  
-- Week 7 → Lab 7: Sound Sensors  
-- Week 8 → Lab 8: LCD Displays  
-- Week 9 → Lab 9: Basic Circuits  
-- Week 10 → Lab 10: Autonomous Robot Intro  
-- Week 11 → Lab 11: Robot Navigation  
-- Week 12 → Lab 12: Sensors Integration  
-- Week 13 → Lab 13: Robot Project Build  
-- Week 14 → Lab 14: Robot Debugging  
-- Week 15 → Lab 15: Robot Demo Prep  
-- Week 16 → Lab 16: Final Robot Demonstration  
-
----
-
-### Khan Academy (Algebra 2 Course)
-- Week 1 → Linear equations & functions  
-- Week 2 → Systems of equations  
-- Week 3 → Quadratic functions  
-- Week 4 → Polynomials & factoring  
-- Week 5 → Rational expressions  
-- Week 6 → Exponential functions  
-- Week 7 → Logarithmic functions  
-- Week 8 → Trigonometric basics  
-- Week 9 → Trig identities  
-- Week 10 → Trig applications  
-- Week 11 → Sequences & series  
-- Week 12 → Probability basics  
-- Week 13 → Statistics intro  
-- Week 14 → Matrices  
-- Week 15 → Review modules  
-- Week 16 → Practice exams  
-
----
-
-## 📝 Notes
-- Evening study blocks: **4–10 PM**  
-- Weekly reviews every Saturday  
-- Commit progress weekly to GitHub
-
-
-# 📅 Weekly Study Schedule (Color‑Coded)
-
-| Subject            | Hours/Week | Suggested Sessions | Notes |
-|--------------------|------------|--------------------|-------|
-| 🔵 **Discrete Math**  | 6–8 hrs    | 3 × 2–3 hrs | Core logic & proofs — anchor subject. Use quizzes for active recall. |
-| 🟢 **Algebra**        | 5–6 hrs    | 2–3 × 2 hrs | Practice sets steadily; keep a review slot for older chapters. |
-| 🟣 **Trigonometry**   | 4–5 hrs    | 2 × 2–2.5 hrs | Pair with physics for applied practice (angles, vectors). |
-| 🔴 **Physics**        | 6–7 hrs    | 3 × 2–2.5 hrs | Mix theory with problem solving; align labs with robotics. |
-| 🟡 **Robotics Labs**  | 4–6 hrs    | 2 × 2–3 hrs | Hands‑on kit work; document progress in GitHub weekly. |
-| ⚪ **Review & Notes** | 3 hrs      | 1–2 × 1.5 hrs | Summarize each week into GitHub notes + progress tracker. |
-
-**Total: ~28–35 hrs/week** (like a full college load).
-
----
-
-## 🕒 Daily Flow Example
-
-- 🔵 **Mon:** Discrete Math (2.5h), 🔴 Physics (2h)  
-- 🟢 **Tue:** Algebra (2h), 🟡 Robotics Lab (2.5h)  
-- 🔵 **Wed:** Discrete Math (2h), 🟣 Trigonometry (2h)  
-- 🔴 **Thu:** Physics (2.5h), 🟢 Algebra review (1.5h)  
-- 🟡 **Fri:** Robotics Lab (2h), 🔵 Discrete Math quiz/review (2h)  
-- 🔴 **Sat:** Physics problem set (2h), 🟣 Trigonometry practice (2h)  
-- ⚪ **Sun:** Weekly review + GitHub update (3h)  
+| Day       | Subjects & Focus |
+|-----------|------------------|
+| 🔵 **Mon** | Discrete Math (2.5h), 🔴 Physics (2h) |
+| 🟢🟣 **Tue** | Algebra + Trig (2.5h), ⚪ Review (1h) |
+| 🔵 **Wed** | Discrete Math (2h), 🟢🟣 Algebra + Trig (2h) |
+| 🔴 **Thu** | Physics (2.5h), 🟢🟣 Algebra + Trig (1.5h) |
+| 🔵 **Fri** | Discrete Math quiz/review (2h), 🔴 Physics (2h) |
+| 🟢🟣 **Sat** | Algebra + Trig practice (2.5h), ⚪ Review (1h) |
+| ⚪ **Sun** | Weekly summary + GitHub update (3h) |
 
 
