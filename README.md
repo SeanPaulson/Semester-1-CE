@@ -40,23 +40,23 @@ The goal is to build a strong foundation before enrolling at **UCCS in May 2026*
 # 📅 Weekly Progress Tracker – Semester 1
 
 ## Week 1
-- [x] Discrete Math (Epp 5th): Section 1.1 – Statements and Logical Connectives (reading done)
+- [**X**] Discrete Math (Epp 5th): Section 1.1 – Statements and Logical Connectives (reading done)
 - [ ] Algebra & Trig (Hornsby 6th): Chapter 1 – Graphs and Functions
 - [ ] Robotics Lab 1: Blinking LED
-- [x] Khan Academy-algebra 2: polynomial arithmetic
+- [**X**] Khan Academy-algebra 2: polynomial arithmetic
 
 ## Week 2
-- [ ] Discrete Math: Section 1.2 – Conditional Statements
-- [ ] Discrete Math: Exercise Set 1.1
+- [**X**] Discrete Math: Section 1.2 – Conditional Statements
+- [**X**] Discrete Math: Exercise Set 1.1
 - [ ] Algebra & Trig: Chapter 2 – Linear Equations and Inequalities
 - [ ] Robotics Lab 2: Buttons & Switches
-- [X] Khan Academy-algebra 2: Complex numbers
+- [**X**] Khan Academy-algebra 2: Complex numbers
 
 ## Week 3
 - [ ] Discrete Math: Section 1.3 – Valid and Invalid Arguments
 - [ ] Algebra & Trig: Chapter 3 – Quadratic Functions
 - [ ] Robotics Lab 3: Sensors
-- [-] Khan Academy-algebra 2: Polynomial factorization
+- [**X**] Khan Academy-algebra 2: Polynomial factorization
 
 ## Week 4
 - [ ] Discrete Math: Section 1.4 – Using Definitions
